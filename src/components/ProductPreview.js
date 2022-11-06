@@ -15,8 +15,8 @@ export default function ProductPreview() {
       </picture>
       <div className={classnames(`p-[20px] bg-[#FFFFFF]
       md:w-[48%]`)}>
-        <h4 className={classnames(`mb-[10px] montserrat-font perfume-font-weight text-[14px]`)}>P E R F U M E</h4>
-        <h1 className={classnames(`mb-[12px] font-Fraunces fraunces-font-and-weight text-[28px] leading-[30px]`)}>Gabrielle Essence Eau De Parfum</h1>
+        <h4 className={classnames(`mb-[20px] montserrat-font perfume-font-weight text-[14px]`)}>P E R F U M E</h4>
+        <h1 className={classnames(`mb-[20px] font-Fraunces fraunces-font-and-weight text-[28px] leading-[30px]`)}>Gabrielle Essence Eau De Parfum</h1>
         <p className={classnames(`mb-[38px] w-[85%] montserrat-font floral-font-weight text-[12px] leading-[20px]`)}>A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer- Creator for the House of CHANEL.</p>
         <div className={classnames(`flex flex-row mb-[20px]`)}>
           <h1 className={classnames(`mr-[24px] fraunces-font-and-weight text-[#3C8067] text-[28px] center`)}>$149.99</h1>
